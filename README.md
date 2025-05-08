@@ -13,26 +13,18 @@ I'm a self-taught full-stack developer with a background in finance. I build per
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, Vue, Tailwind CSS  
+**Frontend:** React, React Native, Vue, Next.js, Tailwind CSS  
 **Backend:** Go, Node.js, PostgreSQL, MongoDB  
 **DevOps:** Docker, Caddy, GitHub Actions  
 **Others:** Redis, JWT, REST API, SSR, CI/CD
 
 ## 💼 Projects
 
-- 🔗 [**Petify**](https://github.com/nicolasleigh/petify) – An e-commerce app for pet products with rate limiting, caching, and CI/CD.
-- 🔗 [**Chatify**](https://github.com/nicolasleigh/chatify) – Real-time chat app with audio/video calling and a Golang + PostgreSQL backend.
-- 🔗 [**Blog App**](https://github.com/nicolasleigh/blog-app) – A multilingual portfolio and blog with admin features, analytics, and full-stack functionality.
+- 🔗 [**Linze.pro**](https://github.com/nicolasleigh/linze.pro) – A multilingual portfolio and blog, built with Vue and Go.
+- 🔗 [**Petify**](https://github.com/nicolasleigh/petify) – An e-commerce app for pet products.
+- 🔗 [**Chatify**](https://github.com/nicolasleigh/chatify) – Real-time chat app with audio/video calling and a Go + PostgreSQL backend.
 
 ## 📈 GitHub Stats
-
-
-
-<div>
-<!--    <a href="https://github.com/nicolasleigh?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasleigh&show_icons=true&hide=contribs" />
-  </a> -->
-</div>
 
 <div>
    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasleigh&layout=compact&hide=html" />
@@ -45,5 +37,5 @@ I'm a self-taught full-stack developer with a background in finance. I build per
 ## 📫 Contact Me
 
 - 📧 Email: nicolas.leigh@qq.com | linze201@gmail.com  
-- 🌐 Portfolio: [nicolasleigh.dev](https://nicolasleigh.dev)  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/nicolasleigh)
+- 🌐 Portfolio: [linze.pro](https://linze.pro)  
+- 🔗 [GitHub](https://github.com/nicolasleigh)
