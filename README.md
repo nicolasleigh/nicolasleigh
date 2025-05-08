@@ -2,6 +2,9 @@
 
 I'm a self-taught full-stack developer with a background in finance. I build performant web apps with Go, React, Vue, and PostgreSQL.
 
+![](https://komarev.com/ghpvc/?username=nicolasleigh)
+![](https://hit.yhype.me/github/profile?account_id=113521135)
+
 ## 🚀 About Me
 
 - 🔁 Ex-auditor turned software developer
