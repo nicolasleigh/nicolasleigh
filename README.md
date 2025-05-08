@@ -23,15 +23,21 @@ I'm a self-taught full-stack developer with a background in finance. I build per
 
 ## 📈 GitHub Stats
 
+
+
 <div>
-  <a href="https://github.com/nicolasleigh?tab=repositories&q=&type=&language=&sort=stargazers">
+<!--    <a href="https://github.com/nicolasleigh?tab=repositories&q=&type=&language=&sort=stargazers">
     <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasleigh&show_icons=true&hide=contribs" />
-  </a>
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasleigh&layout=compact&hide=html" />
+  </a> -->
+</div>
+
+<div>
+   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasleigh&layout=compact&hide=html" />
   <a href="https://wakatime.com/@nicolasleigh">
-    <img height="200" style="margin-top:10px;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasleigh&layout=compact&langs_count=8&custom_title=Total time coded since Jan 3 2025" alt="Total time coded since Jan 3 2025" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasleigh&layout=compact&langs_count=8&custom_title=Total%20time%20coded%20since%20Jan%203%202025" alt="Total time coded since Jan 3 2025" />
   </a>
 </div>
+
 
 ## 📫 Contact Me
 
