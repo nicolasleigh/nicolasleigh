@@ -28,6 +28,8 @@ I'm a self-taught full-stack developer with a background in finance. I build per
 
 ## 📈 GitHub Stats
 
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasleigh&show_icons=true&theme=radical)
+
 <div>
    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasleigh&layout=compact&hide=html" />
   <a href="https://wakatime.com/@nicolasleigh">
