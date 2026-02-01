@@ -4,6 +4,7 @@ I'm a self-taught full-stack developer with a background in finance. I build per
 
 ![](https://komarev.com/ghpvc/?username=nicolasleigh)
 ![](https://hit.yhype.me/github/profile?account_id=113521135)
+[![wakatime](https://wakatime.com/badge/user/40cebdd1-49f2-4edb-bb04-0b44fce6bde3.svg)](https://wakatime.com/@40cebdd1-49f2-4edb-bb04-0b44fce6bde3)
 
 ## 🚀 About Me
 
